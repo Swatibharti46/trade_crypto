@@ -1,6 +1,7 @@
 websockets
 streamlit
 scikit-learn
+plotly
 requests
 numpy
 pandas
