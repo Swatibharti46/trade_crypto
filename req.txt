@@ -1,3 +1,4 @@
+websockets
 streamlit
 websockets
 requests
