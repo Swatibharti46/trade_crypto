@@ -1,6 +1,6 @@
 websockets
 streamlit
-websockets
+
 requests
 numpy
 pandas
